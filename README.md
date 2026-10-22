@@ -1,2 +1,2 @@
-# HomeFlex-Home-Service-Booking-System
+# HomeFlex: Home Service Booking System
 Final Year Project
